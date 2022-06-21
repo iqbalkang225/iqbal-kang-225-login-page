@@ -28,9 +28,6 @@ body {
   background-color: var(--color-white);
   text-align: center;
   width: 325px;
-}
-
-.login-box {
   padding: 50px;
 }
 
